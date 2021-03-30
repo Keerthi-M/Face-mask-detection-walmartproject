@@ -16,8 +16,8 @@ HARDWARE REQUIREMENTS:<br>
       * RAM-8GB <br>
       * WINDOWS 10 <br>
 SOFTWARE REQUIREMENTS: <br>
-      * PROGRAMMING LANGUAGE-PYTHON <br>
-      * LIBRARY-OPEN CV <br>
+     </br> * PROGRAMMING LANGUAGE-PYTHON <br>
+     </br> * LIBRARY-OPEN CV <br>
       * LIBRARY-TENSORFLOW <br>
       * LIBRARY-ARGPARSE <br>
       * LIBRARY-KERAS <br>
@@ -26,6 +26,7 @@ To mitigate the spread of COVID-19 pandemic, measures must be taken. We have mod
 
   The model was inferred on images and live video streams. To select a base model,we evaluated the metrics like accuracy, precision and recall and selected MobileNetV2 architecture with the best performance having 100% precision and 99% recall. It is also computationally efficient using MobileNetV2 which makes it easier to install the model to embedded systems. This face mask detector can be deployed in many areas like shopping malls, airports and other heavy traffic places to monitor the public and to avoid the spread of the disease by checking who is following basic rules and who is not.<br>
  
+ Thanks for reading! :)
 
 
  
