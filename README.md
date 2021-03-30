@@ -10,14 +10,14 @@ We are going to build this project in two parts. <br>
 **Deployment:** Once the face mask detector is trained, we can then move on to loading the mask detector, performing face detection, and then classifying each face as with_mask or without_mask. <br>
 
 ### SYSTEM REQUIREMENTS: <br>
-HARDWARE REQUIREMENTS:<br>
+HARDWARE REQUIREMENTS:<br/>
       * PROCESSOR –I5-10210U <br>
       * HARD DRIVE-1TB <br>
       * RAM-8GB <br>
       * WINDOWS 10 <br>
-SOFTWARE REQUIREMENTS: <br>
-     </br> * PROGRAMMING LANGUAGE-PYTHON <br>
-     </br> * LIBRARY-OPEN CV <br>
+SOFTWARE REQUIREMENTS: <br/>
+      * PROGRAMMING LANGUAGE-PYTHON <br>
+      * LIBRARY-OPEN CV <br>
       * LIBRARY-TENSORFLOW <br>
       * LIBRARY-ARGPARSE <br>
       * LIBRARY-KERAS <br>
