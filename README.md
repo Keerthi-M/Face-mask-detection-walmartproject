@@ -11,7 +11,7 @@ We are going to build this project in two parts. <br>
 
 ### SYSTEM REQUIREMENTS: <br>
 HARDWARE REQUIREMENTS:<br/>
-      *PROCESSOR –I5-10210U <br>
+* PROCESSOR –I5-10210U <br>
       *HARD DRIVE-1TB <br>
       *RAM-8GB <br>
       *WINDOWS 10 <br>
