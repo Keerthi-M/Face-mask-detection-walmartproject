@@ -11,16 +11,16 @@ We are going to build this project in two parts. <br>
 
 ### SYSTEM REQUIREMENTS: <br>
 HARDWARE REQUIREMENTS:<br/>
-      * PROCESSOR –I5-10210U <br>
-      * HARD DRIVE-1TB <br>
-      * RAM-8GB <br>
-      * WINDOWS 10 <br>
+      *PROCESSOR –I5-10210U <br>
+      *HARD DRIVE-1TB <br>
+      *RAM-8GB <br>
+      *WINDOWS 10 <br>
 SOFTWARE REQUIREMENTS: <br/>
-      * PROGRAMMING LANGUAGE-PYTHON <br>
-      * LIBRARY-OPEN CV <br>
-      * LIBRARY-TENSORFLOW <br>
-      * LIBRARY-ARGPARSE <br>
-      * LIBRARY-KERAS <br>
+      *PROGRAMMING LANGUAGE-PYTHON <br>
+      *LIBRARY-OPEN CV <br>
+      *LIBRARY-TENSORFLOW <br>
+      *LIBRARY-ARGPARSE <br>
+      *LIBRARY-KERAS <br>
       
 To mitigate the spread of COVID-19 pandemic, measures must be taken. We have modeled a face mask detector using MobileNetV2 architecture and transfer learning methods in neural networks. To train,validate and test the model, we used the dataset that consisted of 1916 masked faces images and 1919 unmasked faces images. These images were taken from various resources like Kaggle and RMFD datasets. <br>
 
