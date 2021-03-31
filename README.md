@@ -5,7 +5,6 @@ Detecting the humans whether they have worn face mask or not automatically by th
 ->The app can be connected to any existing or new IP cameras to detect people with and without mask So that it could become useful in important places like airport, hospitals, office, schools  etc.<br> <br/>
 Project Outcome pictures : [Face mask detection project screenshots](https://drive.google.com/drive/folders/1zKJ37tB6y78T_J8uIcVkc2l18peYJyv1?usp=sharing) <br> <br/>
 Project Demo video link : [Face mask detection demo video](https://drive.google.com/file/d/1hn34SD7JxqA67l3_rDhISYVLwkgY5Z8r/view?usp=sharing) <br> <br/>
-
 ### PROPOSED WORK:<br>
 We are going to build this project in two parts. <br>
 **Training:** Here we’ll focus on loading our face mask detection dataset from disk, training a model (using Keras/TensorFlow) on this dataset, and then serializing the face mask detector to disk <br>
