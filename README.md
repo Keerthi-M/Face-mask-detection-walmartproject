@@ -2,7 +2,9 @@
 Detecting the humans whether they have worn face mask or not automatically by the system as the breakout of worldwide pandemic COVID-19. We have used deep learning to develop the face detector model with libraries Keras, TensorFlow, OpenCV. 
 
 ->Wearing mask have become an important thing in our daily lives and will be required in order to socialize or conduct business. <br>
-->The app can be connected to any existing or new IP cameras to detect people with and without mask So that it could become useful in important places like airport, hospitals, office, schools  etc.<br>
+->The app can be connected to any existing or new IP cameras to detect people with and without mask So that it could become useful in important places like airport, hospitals, office, schools  etc.<br> <br/>
+Project Outcome pictures : [Face mask detection screenshots](https://drive.google.com/drive/folders/1zKJ37tB6y78T_J8uIcVkc2l18peYJyv1?usp=sharing) <br> <br/>
+
 
 ### PROPOSED WORK:<br>
 We are going to build this project in two parts. <br>
